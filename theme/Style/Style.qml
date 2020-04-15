@@ -5,8 +5,8 @@ import QtQuick 2.5
 
 QtObject {
     // Colors
-    property color ncBlue:      "#0082c9"
-    property color ncBlueHover: "#009dd9"
+    property color ncBlue:      "#0573fa"
+    property color ncBlueHover: "#2aa7f5"
 
     // Fonts
     // We are using pixel size because this is cross platform comparable, point size isn't
